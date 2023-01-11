@@ -1,2 +1,2 @@
 # BH-PCMLAI-Module5
-This repo constains the practical application assignment for Module 5
+This repository contains the practical application assignment for Module 5

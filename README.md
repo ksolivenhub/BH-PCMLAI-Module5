@@ -1,5 +1,5 @@
 # BH-PCMLAI-Module5
-This repository contains the practical application assignment for Module 5
+This repository contains the practical application assignment for Module 5.
 Additional details are provided in this activity's Juniper Notebook.
 
 Notebook link: https://github.com/ksolivenhub/BH-PCMLAI-Module5/blob/de536bc25e102c975dfbb53ca70b43e1b0e814d1/prompt-ksoliven-fin.ipynb
